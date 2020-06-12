@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.0beabc68.chunk.css",
-    "main.js": "/static/js/main.83456f85.chunk.js",
-    "main.js.map": "/static/js/main.83456f85.chunk.js.map",
+    "main.css": "/static/css/main.deb3cf95.chunk.css",
+    "main.js": "/static/js/main.a54797fd.chunk.js",
+    "main.js.map": "/static/js/main.a54797fd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.246e8137.js",
     "runtime-main.js.map": "/static/js/runtime-main.246e8137.js.map",
-    "static/css/2.88dfaa77.chunk.css": "/static/css/2.88dfaa77.chunk.css",
-    "static/js/2.b21a1bfd.chunk.js": "/static/js/2.b21a1bfd.chunk.js",
-    "static/js/2.b21a1bfd.chunk.js.map": "/static/js/2.b21a1bfd.chunk.js.map",
+    "static/css/2.857f90b2.chunk.css": "/static/css/2.857f90b2.chunk.css",
+    "static/js/2.c4098df6.chunk.js": "/static/js/2.c4098df6.chunk.js",
+    "static/js/2.c4098df6.chunk.js.map": "/static/js/2.c4098df6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5f704eb26429f40686eca8ca428e8986.js": "/precache-manifest.5f704eb26429f40686eca8ca428e8986.js",
+    "precache-manifest.ede0879e2e3b63e7d3566819b67fe2ff.js": "/precache-manifest.ede0879e2e3b63e7d3566819b67fe2ff.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.88dfaa77.chunk.css.map": "/static/css/2.88dfaa77.chunk.css.map",
-    "static/css/main.0beabc68.chunk.css.map": "/static/css/main.0beabc68.chunk.css.map",
-    "static/js/2.b21a1bfd.chunk.js.LICENSE.txt": "/static/js/2.b21a1bfd.chunk.js.LICENSE.txt",
+    "static/css/2.857f90b2.chunk.css.map": "/static/css/2.857f90b2.chunk.css.map",
+    "static/css/main.deb3cf95.chunk.css.map": "/static/css/main.deb3cf95.chunk.css.map",
+    "static/js/2.c4098df6.chunk.js.LICENSE.txt": "/static/js/2.c4098df6.chunk.js.LICENSE.txt",
     "static/media/UploadIcon.svg": "/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/App.css": "/static/media/background3.876ab531.jpeg",
     "static/media/bars.svg": "/static/media/bars.ca49bba4.svg",
-    "static/media/App.css": "/static/media/phone3.1c85449e.jpg"
+    "static/media/button-sound.mp3": "/static/media/button-sound.32194199.mp3",
+    "static/media/right-answer2.mp3": "/static/media/right-answer2.37426e5d.mp3",
+    "static/media/wrong-answer2.mp3": "/static/media/wrong-answer2.66615ba4.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.246e8137.js",
-    "static/css/2.88dfaa77.chunk.css",
-    "static/js/2.b21a1bfd.chunk.js",
-    "static/css/main.0beabc68.chunk.css",
-    "static/js/main.83456f85.chunk.js"
+    "static/css/2.857f90b2.chunk.css",
+    "static/js/2.c4098df6.chunk.js",
+    "static/css/main.deb3cf95.chunk.css",
+    "static/js/main.a54797fd.chunk.js"
   ]
 }
